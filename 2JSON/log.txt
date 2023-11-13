@@ -1,0 +1,27 @@
+[13:11:23.699] INFO - Eliminando anteriores archivos (mis_ligas/)
+[13:11:26.016] INFO - Guardado Header 'eyJhbGciOiJS...'
+[13:11:26.607] INFO - Request https://api-fantasy.llt-services.com/api/v4/leagues OK
+[13:11:27.304] INFO - Request https://api-fantasy.llt-services.com/api/v3/league/012818008/market OK
+[13:11:27.308] INFO - mis_ligas/012818008/market.json escrito correctamente
+[13:11:27.937] INFO - Request https://api-fantasy.llt-services.com/api/v4/leagues/012818008/ranking?x-lang=es OK
+[13:11:27.937] INFO - Iniciando multithread para liga 012818008
+[13:11:29.141] INFO - Request https://api-fantasy.llt-services.com/api/v3/leagues/012818008/teams/13375793 OK
+[13:11:29.154] INFO - Request https://api-fantasy.llt-services.com/api/v3/leagues/012818008/teams/13417132 OK
+[13:11:29.157] INFO - mis_ligas/012818008/897195_La Puta Resistencia.json escrito correctamente
+[13:11:29.166] INFO - mis_ligas/012818008/3102703_la mimineta.json escrito correctamente
+[13:11:29.201] INFO - Request https://api-fantasy.llt-services.com/api/v3/leagues/012818008/teams/13367819 OK
+[13:11:29.213] INFO - mis_ligas/012818008/1696325_Noah Redux.json escrito correctamente
+[13:11:29.346] INFO - Request https://api-fantasy.llt-services.com/api/v3/leagues/012818008/teams/13368726 OK
+[13:11:29.349] INFO - Request https://api-fantasy.llt-services.com/api/v3/leagues/012818008/teams/13368097 OK
+[13:11:29.375] INFO - mis_ligas/012818008/3789914_rugineta.json escrito correctamente
+[13:11:29.377] INFO - mis_ligas/012818008/3478921_Viltan.json escrito correctamente
+[13:11:29.381] INFO - Request https://api-fantasy.llt-services.com/api/v3/leagues/012818008/teams/13368953 OK
+[13:11:29.395] INFO - mis_ligas/012818008/3789535_giselajimenezzz.json escrito correctamente
+[13:11:30.132] INFO - Request https://api-fantasy.llt-services.com/api/v3/league/013219676/market OK
+[13:11:30.135] INFO - mis_ligas/013219676/market.json escrito correctamente
+[13:11:30.688] INFO - Request https://api-fantasy.llt-services.com/api/v4/leagues/013219676/ranking?x-lang=es OK
+[13:11:30.689] INFO - Iniciando multithread para liga 013219676
+[13:11:31.466] INFO - Request https://api-fantasy.llt-services.com/api/v3/leagues/013219676/teams/15422176 OK
+[13:11:31.477] INFO - mis_ligas/013219676/1696325_Noah Redux.json escrito correctamente
+[13:11:31.609] INFO - Request https://api-fantasy.llt-services.com/api/v3/leagues/013219676/teams/15423522 OK
+[13:11:31.622] INFO - mis_ligas/013219676/5757683_tuprimaaaaaa.json escrito correctamente
